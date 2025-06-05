@@ -8,7 +8,11 @@ Task 2: Analyze a Phishing Email Sample.
 
 **Deliverables**: A report listing phishing indicators found
 
+________________________________________________________________
+
 ● Download Email Sample (.eml)
 **Tool Used :** EML Analyzer 
+
+________________________________________________________________
 
 ● Attached sample Mail and its Report in pdf form.
